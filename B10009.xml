@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several new letters concerning the Jevves sent to divers Persons of Quality here in England, being a perfect relation of the miracles wrought by their prophet, the magnificence of their king, with the manner of his entertainment in the court of the Grand Signior.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10009</idno><idno type="EEBO-CITATION">62369663</idno>
+  <idno type="VID">188129</idno>
+  <idno type="EEBO-PROQUEST">2240884099</idno>
+  
+            <idno type="STC">Wing S2783A</idno>
+            <idno type="STC">ESTC R183765</idno>
+            <idno type="OCLC">62369663</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188129)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2856:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several new letters concerning the Jevves sent to divers Persons of Quality here in England, being a perfect relation of the miracles wrought by their prophet, the magnificence of their king, with the manner of his entertainment in the court of the Grand Signior.</title>
+                  <author>Joseph, Hanie.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxwell for Robert Boulter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Copy of a letter from Gaza wrote by Hanie Joseph to his brother Raphel Joseph ..." -- p.[1].</note>
+                  <note>Imperfect: pages stained and have print show-through.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Joseph, Raphel.</term>
+               <term type="topical_term">Jews --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:188129:1"/>
+            <pb facs="tcp:188129:1"/>
+            <p>
+               <pb facs="tcp:188129:2"/>
+               <pb facs="tcp:188129:2"/> Several New LETTERS. Concerning the JEVVES: Sent to divers <hi>PERSONS</hi> of <hi>QƲALITY</hi> HERE IN ENGLAND: BEING A perfect Relation of the MIRACLES wrought by their Prophet, The Magni<g ref="char:EOLhyphen"/>ficence of their King, with the manner of his Entertainment in the Court of the GRAND SIGNIOR.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Maxwel</hi> for <hi>Robert Boulter,</hi> at the Sign of the <hi>Turks</hi> Head in <hi>Cornhil,</hi> MDCLXVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:188129:3"/>
+            <pb facs="tcp:188129:3"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of a crowned English rose, a crowned French fleur de lis, and a crowned Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>A NEW LETTER Concerning the JEWES.</head>
+            <argument>
+               <p>A Copy of a Letter from <hi>Gaza,</hi> wrote by <hi>HANIE JO<g ref="char:EOLhyphen"/>SEPH,</hi> to his Brother <hi>RAPHEL JOSEPH,</hi> Saraf<g ref="char:EOLhyphen"/>bassi of <hi>Cairo,</hi> the <hi>17th</hi> of the Month <hi>Chislu, An. 5426.</hi> sent from <hi>Cairo</hi> to a <hi>Jew</hi> in <hi>Legorn.</hi> Tran<g ref="char:EOLhyphen"/>slated out of <hi>Italian</hi> into <hi>English.</hi>
+               </p>
+            </argument>
+            <p>BY reason of an Embargo on all Ships in <hi>Alexandria,</hi> I could not sooner give you an Accompt of what pas<g ref="char:EOLhyphen"/>seth here among us.</p>
+            <p>Please then to know, That our Prophet embarkt in the Port of <hi>Joppa,</hi> to go for <hi>Smyrna,</hi> to speak with our Annoint<g ref="char:EOLhyphen"/>ed King about weighty matters; and as soon as the Bark se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:188129:4"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail, there rose a great storm, which forced them back. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us they set sail thrice, and were still forced back with a greater storm, insomuch that they resolved to attempt no more; and landing from the Bark, a Piliar of Fire, and an Angel appeared, bidding him Return to <hi>Gaza,</hi> that there was no occasion of his going the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyage, for the Redemption of <hi>Israel</hi> was at han<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Hereupon the Prophet returned, and passing a Mountain in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Desart, there appeared a Prophet to him, <hi>Jehu</hi> the Son of <hi>Hanan,</hi> who confirmed unto him what the Angel had said, and bid be of good chear, for the Redemption of <hi>Israel</hi> was at hand; and that suddenly part of their Tribe would be together in <hi>Gaza.</hi> The Prophet having heard those words, followed on his jou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ney for <hi>Gaza,</hi> very much rejoicing, giving thanks and prayers unto God for what he had received in this his Journey.</p>
+            <p>Further know, That a P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ophet Messenger is come to our Prophet from <hi>Smyrna</hi> sent by the Anointed King, who told him of many things, among the rest, how in a certain Feast of the <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws</hi> (which was the 25 of <hi>November</hi>) God would send three dayes and three nights of darkness among the Gentiles, and there should fall great Hail stones, Fire and Brimstone, which sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld destroy many Houses of Idolaters, with a great mortali<g ref="char:EOLhyphen"/>ty among People and Cattel; but among the <hi>Jews</hi> should be clear l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, without any hurt or disturbance. He likewise told h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, That in a little while would come part of our Tribe to the Holy Land.</p>
+            <p>Know, That Letters are come hither from <hi>Aleppo</hi> and <hi>Da<g ref="char:EOLhyphen"/>mascus,</hi> which give us good News, That in <hi>Aleppo</hi> are disco<g ref="char:EOLhyphen"/>vered Twenty Prophets men, and as many women.</p>
+            <p>All agree and confirm what the Prophet of <hi>Gaza</hi> said, and the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing by him declared, is the true Anointed King of <hi>Israel,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at our Redemption is at hand.</p>
+            <p>About the <hi>17th</hi> or <hi>19th</hi> of the said Month, will be discovered great Prophet in <hi>Cairo,</hi> and another in <hi>Scio.</hi>
+            </p>
+            <pb n="3" facs="tcp:188129:4"/>
+            <p>The <hi>20th</hi> of the Month <hi>Sceuceth,</hi> which will be in our ac<g ref="char:EOLhyphen"/>count <hi>January,</hi> will be at <hi>Gaza</hi> the Tribe of <hi>Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ben,</hi> and the half Tribe of <hi>God</hi> armed, and all ready for Battel; the Bashaw of <hi>Gaza</hi> giveth certain Credit to all our Prophet saith, for the said Bash<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w hath a Brother which is a great Astrologer, who assures him of the truth.</p>
+            <p>There are come other Letters which confi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the Truth of the Pillar of F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e. This, as w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at I have else wrote to you about, you must not harbour the least doubt of it. When our Prophet was in the Moun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain, there was with him <hi>Rabbi Israel Benjamin,</hi> who at that time saw nothing, but after he had sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt two days and two n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghts in humiliation, he heard and understood a Voice which s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, <hi>Nathan</hi> (the Name of the Prophet of <hi>Gaza) my Friend, the Lord God hath received thy prayers, and also the pray<g ref="char:EOLhyphen"/>ers which his people Israel make; return chearfully to Gaza, for the Redemption of Israel is at hand:</hi> And when they met the foresaid <hi>Prophet</hi> in the Mountain, called <hi>Jehu</hi> the Son of <hi>Ha<g ref="char:EOLhyphen"/>nan,</hi> he told them, That within two Months should come two Embassadors to <hi>Gaza</hi> from the <hi>Hebrews,</hi> beyond the <hi>Sabatalian</hi> River, who should acquaint them that the <hi>Messias</hi> was come.</p>
+            <closer>
+               <dateline>
+                  <hi>Wrote from the Treasurer of all</hi> Egypt, <hi>to his Brother here, concerning the Prophesie relating to the</hi> Jews. Lego<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <date>Jan. 25. 1666.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:188129:5"/>
+            <head>
+               <hi>From</hi> Amsterdam, <hi>January</hi> 22. S N. 1666.</head>
+            <p>HEre I send you now an enclosed from <hi>Barn</hi> in <hi>Switzerland,</hi> from our Friend there, concerning the ratling of our dry bones in <hi>Judea,</hi> that goes on more and more. For One Prophet, ye have now Twenty and above, not only at <hi>Jerusalem,</hi> but else where also, as at <hi>Cairo</hi> and <hi>Chios.</hi> And its affirmed by the Pro<g ref="char:EOLhyphen"/>phets, That there will arise Prophets <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very where.</p>
+            <p>The Letters come yesterday from <hi>Legorn</hi> and <hi>Venice,</hi> bring nothing but confirmation of all we heard of <hi>Mecca</hi> and <hi>Saley:</hi> And especially of a great multitude descending from <hi>Persia,</hi> all <hi>Hebrew</hi> people, of the Tribes of <hi>Reuben</hi> and <hi>Gad,</hi> marching up some eleven times an hundred Thousand. As for the King <hi>Sab<g ref="char:EOLhyphen"/>bathai,</hi> the <hi>Jews</hi> here keep close what is of him; only a certain Rabbi shewed me this week a Letter written at <hi>Hamborough</hi> the 15 of <hi>January,</hi> saying, That at <hi>Vienna</hi> was come from <hi>Constan<g ref="char:EOLhyphen"/>tinople</hi> a Courier at the Emperor, sent to him by his Embassador to acquaint him, That at <hi>Constantinople</hi> was arrived the King of the <hi>Jews,</hi> and was reverently received, and led about publickly by the Grand Signior. It's written also from <hi>Legorn</hi> and <hi>Venice,</hi> That at <hi>Aleppo</hi> the great <hi>Turkish</hi> Church was sunk down in the Earth, and swallowed up; even as the Church at <hi>Jerusalem</hi> of the <hi>Franciscan</hi> Monks. And that in the Air was seen right above it, a fiery Pillar, and an Angel crying out, <hi>That the Redemption of Israel is come.</hi> The like Voice was heard at <hi>Gaza,</hi> at a c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtain time when the Prophet <hi>Nathan,</hi> with another Chacam or Rab<g ref="char:EOLhyphen"/>bi standing together, were encompassed with a Fiery Cloud. The Prophets do all agree in their Testimony, and say, That on the 25 of the <hi>Cheslu</hi> *, there will be amongst the Na<g ref="char:EOLhyphen"/>tions<note place="margin">Part of Novem<g ref="char:EOLhyphen"/>ber a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Decen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</note> great obscurity, and brimstone will fall from Heaven upon divers places, and yet do no hurt to the <hi>Jews;</hi> and that many Churches will fall. Yea, it is asserted,
+<pb n="5" facs="tcp:188129:5"/> That on the <hi>20th</hi> of this month <hi>Sebat</hi>
+               <note n="*" place="margin">Part of J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nuary and February.</note>
+               <hi>Reuben</hi> as the first-born of <hi>Jacob,</hi> will be at <hi>Gaza:</hi> but before that time, two men would come to or<g ref="char:EOLhyphen"/>der how the Redemption of <hi>Israel</hi> should be effected. We hear also from <hi>Paris,</hi> that their King had news from <hi>Constanti<g ref="char:EOLhyphen"/>nople,</hi> and from <hi>Persia,</hi> concerning the march of the <hi>Israelites,</hi> at which there was a great Commotion at Court.</p>
+            <p>Behold, this I thought good to communicate unto you, and so to give you, an occasion also to impart to me what your Countrey Divines say to all this, before I come farther to the appearances of many of the dead Prophets and Saints, which is verified by divers Letters. What think you now of the Law?</p>
+            <p>It is likewise written from <hi>Legorn,</hi> to a Merchant here by his Correspondent, that at <hi>Smyrna</hi> the King of the <hi>Jews</hi> rides up and down in great State, Two hundred men attending on him▪ and is highly reverenced by the <hi>Turks.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:188129:6"/>
+            <head>
+               <hi>From Smyrna, the</hi> 7th <hi>of December,</hi> 1665.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEre is a Jew in Town▪ who came about two Months since from <hi>Jerusalem,</hi> and gives out publickly, That the Messiah is come, and hath got to his Party a great many of the <hi>Jews.</hi> And not only in this place, but at <hi>Constantinople,</hi> and many other places through which he hath pas<g ref="char:EOLhyphen"/>sed. And God alone knows whether he may be a means of the Conversion of that stiff necked Ge<g ref="char:EOLhyphen"/>neration. But they are almost all of them at their wits end; what will be the end thereof, no man knows.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:188129:6"/>
+            <pb facs="tcp:188129:7"/>
+            <pb facs="tcp:188129:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
